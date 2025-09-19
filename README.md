@@ -85,8 +85,4 @@ Prediction: Dog (95.32% confidence)
 ### Author
 
 Archita Thakur
-📧 architath27@gmail.com
-
----
-
-## How to Run  
+architath27@gmail.com
