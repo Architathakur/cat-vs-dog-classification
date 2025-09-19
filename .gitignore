@@ -1,0 +1,31 @@
+```gitignore
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment
+env/
+venv/
+
+# Dataset folder
+dataset/
+
+# Model files (can be very large)
+*.h5
+*.ckpt
+*.pth
+
+# Logs
+*.log
+
+# Temporary files
+*.zip
+*.tar.gz
+
+# IDE/Editor specific
+.vscode/
+.idea/

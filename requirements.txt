@@ -1,0 +1,7 @@
+Requirements for this project
+
+tensorflow>=2.11
+matplotlib
+numpy
+pandas
+
