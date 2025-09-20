@@ -40,9 +40,7 @@ It is built using **TensorFlow/Keras** with a Convolutional Neural Network (CNN)
 dataset/train
 dataset/test
 
-2. Run training:
-```bash
-python train.py
+2. Run training
 
 3. The model will train and show accuracy/loss plots.
 
